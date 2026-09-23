@@ -1,6 +1,6 @@
 # 原课程项目与 Fieldfare 的关系
 
-Fieldfare 从合作课程项目 **Philadelphia Food Desert Analysis**（Tim Wen 与 Lingxuan Gao）出发，将区域食品可达性分析转换为地点发现与到访决策原型。原项目代码与完整报告保留在[原项目仓库](https://github.com/wenshaoting6-ui/MUSA-5500-Final-Project)；本仓库不将其描述为 Fieldfare 的个人独立成果。
+**Philadelphia Food Desert Analysis** 是 Tim Wen 与 Lingxuan Gao 的合作课程项目。它提供了 Fieldfare 使用的食品地点、道路和区域地理数据。原项目代码与完整报告见[原项目仓库](https://github.com/wenshaoting6-ui/MUSA-5500-Final-Project)。
 
 本仓库的 `data/*.json` 是从以下原项目文件构建的精简演示快照。路径相对于原项目根目录；输入哈希记录在 [`data/manifest.json`](../data/manifest.json)：
 
