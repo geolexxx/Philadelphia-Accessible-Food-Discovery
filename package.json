@@ -1,0 +1,1 @@
+{"name":"accessible-food-discovery","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"python3 -m http.server 4173 --bind 127.0.0.1","test":"node --test tests/*.test.mjs","check":"node --check app.js && node --check engine.js && node --check route-worker.js"}}
