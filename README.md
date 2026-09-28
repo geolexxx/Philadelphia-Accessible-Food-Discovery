@@ -2,6 +2,8 @@
 
 **A food shopping discovery prototype for Philadelphia.** Fieldfare helps someone start with a location and a travel budget, find possible stores, understand what is known about each place, and choose a next step.
 
+**Live demo:** [fieldfare-philadelphia.vercel.app](https://fieldfare-philadelphia.vercel.app/)
+
 ## Background
 
 In the [Philadelphia Food Desert Analysis](https://github.com/wenshaoting6-ui/MUSA-5500-Final-Project), Tim Wen and Lingxuan Gao studied how food access varies across the city. That work brought together retailer locations, road data, and neighborhood geography. It also raised a more immediate product question: **when someone needs to shop for food, which places can they realistically consider from where they are?**
